@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Forex Trading for Beginners",
+  "description": "An interactive full-stack learning platform featuring mock currency pair trading, real-time Pip \u0026 Margin calculations, a comprehensive curriculum, and an server-side Gemini AI-powered trading mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
